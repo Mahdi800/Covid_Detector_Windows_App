@@ -56,7 +56,7 @@ def openfiles():
 	if root.filename:
 		backup = root.filename
 	del root.filename
-	root.filename = filedialog.askopenfilenames(initialdir="/home/ruka/Anime&Manga", title="Select file", filetypes=(("all file",".*"), ("webp file",".webp"),("jpg file",".jpg"),("png file",".png")))
+	root.filename = filedialog.askopenfilenames(initialdir="/home/", title="Select file", filetypes=(("all file",".*"), ("webp file",".webp"),("jpg file",".jpg"),("png file",".png")))
 	nameF.set(root.filename[0])
 	if not root.filename:
 		exitComfirm = messagebox.askyesno("Exit the Programme?","You didn't choose any file. Exit the programme?")
