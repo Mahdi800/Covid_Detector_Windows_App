@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 from PIL import ImageTk, Image
 import PIL.Image
 from tkinter import filedialog, messagebox
@@ -18,14 +12,9 @@ import os
 from numpy import *
 from tkinter import *
 from customtkinter import *
-#from tkinter.ttk import * 
 from tkinter import ttk
 from ttkthemes import ThemedTk
 from customtkinter import *
-
-
-# In[16]:
-
 
 def wrt(st,fname):
     file = open(fname,"w+")
@@ -112,9 +101,6 @@ def callback(num):
             index+=1
     except:
         output.set(cell);print("Exception")
-
-
-# In[60]:
 
 
 #set_appearance_mode('Light')  # Other: "Light", "Dark"
@@ -245,16 +231,3 @@ def inibutton():
 	#button_exit.grid(row=2, column=1)
     
 root.mainloop() 
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
