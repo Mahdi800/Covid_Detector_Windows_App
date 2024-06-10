@@ -1,4 +1,4 @@
-# Covid-19-detection-windows-application-
+# Covid-19-detection-windows-application
 Using Python's tkinter library\
 Used images from: https://www.kaggle.com/datasets/drsurabhithorat/covid-19-ct-scan-dataset
 
