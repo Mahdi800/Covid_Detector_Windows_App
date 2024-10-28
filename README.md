@@ -1,7 +1,7 @@
 # CT Scan Covid-19 Detector - Windows Application
 This computer vision project was developed using Python's tkinter library\
 ### Dataset
-The training dataset was obtained from: https://www.kaggle.com/datasets/drsurabhithorat/covid-19-ct-scan-dataset \
+The training dataset was obtained from: https://www.kaggle.com/datasets/drsurabhithorat/covid-19-ct-scan-dataset 
 ### Interface 
 The interface is shown below.
 
