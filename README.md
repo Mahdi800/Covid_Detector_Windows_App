@@ -2,6 +2,10 @@
 This computer vision project was developed using Python's tkinter library.
 ### Dataset
 The training dataset was obtained from: https://www.kaggle.com/datasets/drsurabhithorat/covid-19-ct-scan-dataset 
+### CNN
+A CNN model was trained for performing the detection. Python's Keras library was utilized.
+Here are some of the training results of the mode:
+![Screenshot 2024-11-09 at 11 30 31 PM](https://github.com/user-attachments/assets/1dcc8eb2-c2be-48ed-99c1-32a90b9fa6c0)
 ### Interface 
 The interface is shown below.
 
